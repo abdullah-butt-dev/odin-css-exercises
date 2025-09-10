@@ -1,12 +1,12 @@
 /* Add CSS Styling */
 
 .p {
-  background-color: lightpink;
+  background-color: rgb(255, 168, 181);
   font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 #no2 {
-  color: blue;
+  color: #0808d4;
   font-size: 36px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 #no4 {
-  background-color: lightgreen;
+  background-color: hsl(120, 98%, 76%);
   font-size: 24px;
   font-weight: bold;
 }
